@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 abcdefg
 ddd
 ddfg
 h
 h
+=======
+aaa
+>>>>>>> Stashed changes
